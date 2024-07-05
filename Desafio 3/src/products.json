@@ -1,0 +1,9 @@
+[{
+    "title": "Camiseta",
+    "description": "vestuario",
+    "price": 29.99,
+    "thumbnail":" camiseta.jpg",
+    "code": "ABC123",
+    "stock": 50,
+    "id": 1
+}]
